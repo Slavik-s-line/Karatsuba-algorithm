@@ -36,7 +36,6 @@ def karatsuba(first_number, second_number):
 
 global results
 if __name__ == '__main__':
-    results = {}
     while True:
         try:
             first_input_number = int(input("Введите первое число:  "))
